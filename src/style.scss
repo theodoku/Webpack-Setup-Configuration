@@ -1,0 +1,12 @@
+$bgcolor: lightblue;
+$textcolor: darkblue;
+$fontsize: 20px;
+
+body {
+    background-color: $bgcolor;
+    font-size: $fontsize;
+}
+
+.hello {
+    color: $textcolor;
+}
